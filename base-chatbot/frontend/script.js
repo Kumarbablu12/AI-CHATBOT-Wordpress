@@ -1,4 +1,4 @@
-const apiUrl = 'http://ai-chatbot.local/wp-json/myapi/v1/chat-bot/';
+const apiUrl = 'https://thyroidwellnessguide.com//wp-json/myapi/v1/chat-bot/';
 const botConfigurationUrl = 'http://ai-chatbot.local/wp-json/myapi/v1/chat-bot-config';
 const copyButtons = document.querySelectorAll('.lwh-open-cbot .copy-button');
 const button = document.querySelector('.lwh-open-cbot #submit-btn');
